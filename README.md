@@ -130,3 +130,20 @@ The Product Owner ensures that the team is building the right product—one that
 **Contribution to Success:**
 The Scrum Master improves team efficiency and morale by helping the team stay focused, self-organized, and agile in their workflow.
 
+## UI Component Patterns
+Planned Components
+### Navbar
+Logo
+Search bar
+User navigation
+Responsive menu
+### Property Card
+ Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+### Footer
+Site links
+Company information
+Social media links
+Copyright information
