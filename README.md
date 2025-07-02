@@ -101,20 +101,32 @@ Frontend developers are responsible for the look and feel of the application. Th
 
 
 **Backend Developers:** Builds APIs, manages database, implements business logic
+
 **Contribution to Success:**
 Backend developers handle the invisible but critical parts of the application—data processing, security, and server logic. They make sure everything functions reliably behind the scenes.
+
 **Designers:** Creates mockups, maintains design system, ensures UX quality
+
 **Contribution to Success:**
 Designers ensure that the product is not only usable but also delightful. They bridge the gap between user needs and technical execution.
+
 **QA/Testers:** Writes test cases, performs testing, reports bugs
+
 **Contribution to Success:**
 QA/Testers are the guardians of quality. They help catch issues before users do, ensuring the final product is stable, reliable, and bug-free.
+
 **DevOps Engineers:** Manages deployment, CI/CD pipeline, server infrastructure
+
 **Contribution to Success:**
 DevOps engineers enable smooth delivery and operation of the software. They reduce downtime, automate deployments, and ensure that updates happen quickly and safely.
+
 **Product Owner:** Defines requirements, prioritizes features, represents stakeholders
+
 **Contribution to Success:**
 The Product Owner ensures that the team is building the right product—one that aligns with customer needs and business objectives.
+
 **Scrum Master:** Facilitates agile processes, removes blockers, organizes meetings
+
 **Contribution to Success:**
 The Scrum Master improves team efficiency and morale by helping the team stay focused, self-organized, and agile in their workflow.
+
